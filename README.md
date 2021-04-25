@@ -130,4 +130,5 @@ Raft 协议强依赖 Leader 节点的可用性来确保集群数据的一致性�
 ## 参考
 [1]. LESLIE LAMPORT, ROBERT SHOSTAK, MARSHALL PEASE. [The Byzantine General Problem](http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf). 1982
 
+引用： [原文](https://www.cnblogs.com/mindwind/p/5231986.html)
 
